@@ -5,8 +5,6 @@ A simple desktop To-Do list application built with Java Swing.
 ## Overview
 This application demonstrates basic desktop GUI development using Swing. You can add tasks, delete a selected task, clear all tasks, and save/load tasks to/from a simple text file (`tasks.txt`).
 
-It was built as Task 6 for a Java Developer internship assignment. Referenced task spec: the uploaded task PDF (use of JFrame, JButton, JTextField, add/delete tasks, etc.). :contentReference[oaicite:2]{index=2}
-
 ## Features
 - Add task (press Enter or click **Add**)
 - Delete the selected task
